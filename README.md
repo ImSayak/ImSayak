@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://imsayak.bio.link/](https://imsayak.bio.link/)
 
-- 💬 Ask me about **Java, ReactJs, ExpressJs, DSA**
+- 💬 Ask me about **Java, ReactJs, ExpressJs, SQL, DSA**
 
 - 📫 How to reach me **maitysayak07@gmail.com**
 
