@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **StudyNotion-An-Online_Education_Platform**
 
-- 💬 Ask me about **Java, ReactJs, ExpressJs, DSA**
+- 💬 Ask me about **Java, React Js, Express Js, DSA**
 
 - 📫 How to reach me **maitysayak07@gmail.com**
 
